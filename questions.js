@@ -45,12 +45,12 @@ questions = [
         }
     },
     {
-        "question": "I think the government should have to approve development plans.",
+        "question": "I hate libtards.",
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "govt": -10,
+            "scty": -10
         }
     },
 ];
