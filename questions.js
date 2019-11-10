@@ -63,4 +63,13 @@ questions = [
             "scty": -5
         }
     },
+    {
+        "question": "Location restrictions on Nuclear Power Generation Plants should be abolished.",
+        "effect": {
+            "econ": 4,
+            "dipl": 3,
+            "govt": 0,
+            "scty": -5
+        }
+    },
 ];
