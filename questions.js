@@ -44,4 +44,13 @@ questions = [
             "scty": 0
         }
     },
+    {
+        "question": "I think the government should have to approve development plans.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
 ];
