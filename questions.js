@@ -45,12 +45,22 @@ questions = [
         }
     },
     {
-        "question": "I think the government should have to approve development plans.",
+        "question": "I support the government having to approve development plans.",
         "effect": {
             "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 10
+        }
+    },
+
+    {
+        "question": "I support the concept of Urban Growth Boundaries to reduce sprawl.",
+        "effect": {
+            "econ": -2,
+            "dipl": -5,
+            "govt": 5,
+            "scty": -5
         }
     },
 ];
